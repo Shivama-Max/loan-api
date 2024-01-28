@@ -1,0 +1,1 @@
+This project is incomplete, I am more of a Frontend Developer and still learning Backend and its integration. After i am able to do some basic projects and have a good understanding , I will come back and complete it
